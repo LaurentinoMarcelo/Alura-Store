@@ -1,7 +1,7 @@
 # Alura-Store
 ## Página criada utilizando os modelos das páginas store de games e noticias.
 <h1 align="center">
-  <img title="Alura-Store" src="logo.jpg" />
+  <img title="Alura-Store" src="logo.png" />
 </h1>
 
 <p align="center">
